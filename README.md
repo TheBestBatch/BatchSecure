@@ -1,2 +1,3 @@
 # BatchSecure
- Secure your password
+ Secure your password with Aes-256bit
+ Easy to use
